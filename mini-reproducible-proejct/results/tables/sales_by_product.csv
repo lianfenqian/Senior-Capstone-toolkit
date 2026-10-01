@@ -1,0 +1,4 @@
+product,transactions,quantity,sales,avg_sale
+Laptop,10,16.0,14384.0,1438.4
+Tablet,8,16.0,6384.0,798.0
+Monitor,7,16.0,3992.0,570.2857142857143
