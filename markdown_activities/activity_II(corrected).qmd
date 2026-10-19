@@ -1,0 +1,23 @@
+---
+title: "Statistical Report"
+format: html
+---
+
+# Introduction
+
+We analyze a sample of observations.
+
+# Analysis
+
+```{r}
+x <- c(3, 5, 7, 9)
+sample_mean <- mean(x)
+sample_sd <- sd(x)
+
+sample_mean
+sample_sd
+```
+
+# Results
+
+The sample mean is `r round(sample_mean, 2)`.
