@@ -1,0 +1,23 @@
+---
+title: "Statistical Report"
+format: htm
+---
+
+# Introduction
+
+We analyze a sample of observations.
+
+# Analysis
+
+```{r}
+x <- c(3, 5, 7, 9)
+sample_mean <- mean(data)
+sample_sd <- sd(x)
+
+sample_mean
+sample_sd
+```
+
+# Results
+
+The sample mean is 6.
